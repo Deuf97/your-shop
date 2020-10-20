@@ -36,7 +36,7 @@ gem 'jbuilder', github: 'rails/jbuilder', branch: 'master'
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.1.0', require: false
 
-gem 'spree', '~> 4.0'
+gem 'spree', '~> 4.1'
 gem 'spree_auth_devise', '~> 4.0'
 gem 'spree_gateway', '~> 3.6', '>= 3.6.6'
 
